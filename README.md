@@ -1,2 +1,2 @@
 # Power-BI-project
-Some of my dashboards
+My dashboard on sales and marketting project for data analysis
