@@ -37,4 +37,4 @@ This project demonstrates my **data visualization** and **business intelligence*
 
 ---
 
-🔗 **Connect with me:** [LinkedIn]([http://www.linkedin.com/in/pavan-khamitkar-098799239) | [GitHub](https://github.com/PavanKhamitkar)  
+🔗 **Connect with me:** [LinkedIn](http://www.linkedin.com/in/pavan-khamitkar-098799239) | [GitHub](https://github.com/PavanKhamitkar)  
